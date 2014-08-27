@@ -1,0 +1,8 @@
+# default versions on dotcloud
+MySQL-python==1.2.3
+distribute==0.6.27
+psycopg2==2.4.5
+uWSGI==1.2.4
+wsgiref==0.1.2
+supervisor==3.0a8
+supervisor-stdout
